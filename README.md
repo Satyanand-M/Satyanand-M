@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satyanand Mishra
+-     Hi👋, I’m Satyanand Mishra
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DS & Algo
 - 💞️ I’m looking to collaborate on Full stack Development
